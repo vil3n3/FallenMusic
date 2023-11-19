@@ -3,8 +3,8 @@ import asyncio
 from pyrogram import Client, __version__ as ver
 
 
-API_ID = input("\nEnter Your API ID :\n > ")
-API_HASH = input("\nEnter Your API HASH :\n > ")
+API_ID = input("\ 24044242:\n > ")
+API_HASH = input("\38f65ff90865faaf9a2301a62ee8e642:\n > ")
 
 print("\n\nEnter the phone number associated with your telegram account when asked.\n\n")
 
