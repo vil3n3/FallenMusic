@@ -11,37 +11,37 @@
     "pyrogram"
     ],
     "env": {
-      "API_ID": {
+      "API_ID": {24044242}
         "description": "Get this value from https://my.telegram.org",
         "value": "",
         "required": true
       },
-      "API_HASH": {
+      "API_HASH": {BQCuLhRT7-7miG38dgrYELsLpMQ4J2oJU1-BkODNvkXTd8l57awgps3rfxZvjkDKSqT3tXdCtUYUaJCLwFGkFwtLbeE9YXw4gVsj0SaxPBiPeLLpqZ6LcZkFtpKsG83MUm00LIVrfpvar2uFvLPbtpSEmrbD5oOE-8RRdUTFfrGugO-ezyQd7s2V6AlkYZATlJJqIBYjJzj4dV5xhGke3obt3Ss8anAFyjx-AyOO3HQ2qtkDZLG4spoQo2TBm1Uut_ckNnrdoTagLx0nSZ6DkJ0r8xqA1oPuXnl13SoubcAk_OGYcxsv9CjMLz6m5vrqSoP0KrTn5u1IJHjtV7UrzwauAAAAAXV2PuAA}
         "description": "Get this value from https://my.telegram.org",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN": {
+      "BOT_TOKEN": {6760982186:AAETLkmsmV2Fh7D5bSCXtM5MhkhK9qcHkn8}
         "description": "A Bot's token from Botfather",
         "value": "",
         "required": true
       },
-      "OWNER_ID": {
+      "OWNER_ID": {@XD_DEVU}
         "description": "Fill your user id here. (Must be integer)",
         "value": "1356469075",
         "required": true
       },
-      "SESSION": {
+      "SESSION": {BQCuLhRT7-7miG38dgrYELsLpMQ4J2oJU1-BkODNvkXTd8l57awgps3rfxZvjkDKSqT3tXdCtUYUaJCLwFGkFwtLbeE9YXw4gVsj0SaxPBiPeLLpqZ6LcZkFtpKsG83MUm00LIVrfpvar2uFvLPbtpSEmrbD5oOE-8RRdUTFfrGugO-ezyQd7s2V6AlkYZATlJJqIBYjJzj4dV5xhGke3obt3Ss8anAFyjx-AyOO3HQ2qtkDZLG4spoQo2TBm1Uut_ckNnrdoTagLx0nSZ6DkJ0r8xqA1oPuXnl13SoubcAk_OGYcxsv9CjMLz6m5vrqSoP0KrTn5u1IJHjtV7UrzwauAAAAAXV2PuAA}
         "description": "A pyrogram v2 string session from @StringFatherBot",
         "value": "",
         "required": true
       },
-      "SUDO_USERS": {
+      "SUDO_USERS": {6265650912}
         "description": "The user id(s) of user(s) whom you would like to add as a sudo. Multiple values shall be seperated with a space.",
         "value": "",
         "required": true
       },
-      "SUPPORT_CHAT": {
+      "SUPPORT_CHAT": {https://t.me/XD_COMUNITY}
         "description": "Link of your telegram support group. (Must pe public)",
         "value": "https://t.me/DevilsHeavenMF",
         "required": false
